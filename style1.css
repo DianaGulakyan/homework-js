@@ -1,0 +1,83 @@
+body{
+    background-color:rgb(154, 47, 255);
+    margin: 0;
+    padding: 0;   
+}
+.block{
+    width: 500px;
+    height: 600px;
+    background-color: rgb(241, 250, 252);
+    margin-left: 500px;
+    margin-top: 70px;
+    border-radius: 25px;
+}
+.card1{
+    display: flex;
+    margin-left: 100px;
+    gap: 20px;
+}
+.astx{
+    width: 60px;
+    height: 50px;
+    margin-top: 60px;
+}
+.card1 h1{
+    margin-top: 65px;
+    color: rgb(120, 22, 212);
+}
+.card2{
+    display: flex;
+    margin-top: 20px;
+    gap: 20px;
+}
+.card2 input{
+    width: 300px;
+    height: 40px;
+    border-radius: 10px #c6c6c6;
+    margin-left: 50px;
+    padding-left: 10px;
+}
+.card2 button{
+    width: 60px;
+    border-radius: 5px;
+    background-color: rgb(144, 39, 242);
+    border: none;
+    color: white;
+}
+.card3{
+    display: flex;
+    gap: 25px;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.all{
+    width: 50px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(144, 39, 242);
+    color: white;
+}
+.active{
+    width: 60px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: white;
+}
+.compl{
+    width: 90px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: white;
+}
+.p1 {
+    text-align: center;
+    margin-top: 30px;
+    color: #7c7a7a;
+}
+.p2{
+    text-align: center;
+    margin-top: 50px;
+    color: #8b8a8a;
+    margin-bottom: 50px;
+}
